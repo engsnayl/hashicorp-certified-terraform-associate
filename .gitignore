@@ -17,3 +17,5 @@
 
 # Ignore .pem files
 #*.pem
+ aws/
+awscliv2.zip
